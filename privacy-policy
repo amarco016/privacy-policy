@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Política de Privacidad</title>
+</head>
+<body>
+  <h1>Política de Privacidad</h1>
+
+  <p>Esta aplicación ha sido desarrollada por un desarrollador independiente y tiene como objetivo ofrecer una funcionalidad sencilla para el usuario. La privacidad de los usuarios es una prioridad y por eso explicamos a continuación cómo se manejan los datos.</p>
+
+  <h2>Recogida de datos</h2>
+  <p>La aplicación puede recopilar información no personal de forma automática, como el tipo de dispositivo, sistema operativo, país o idioma, con fines estadísticos y para mejorar la experiencia del usuario. Esta información es anónima y no permite identificar al usuario.</p>
+
+  <h2>Publicidad</h2>
+  <p>Esta aplicación puede mostrar anuncios proporcionados por Google AdMob u otras redes publicitarias. Estas redes pueden recopilar datos no personales, como el ID de publicidad del dispositivo, para personalizar y mostrar anuncios relevantes.</p>
+
+  <h2>Permiso de cámara</h2>
+  <p>Algunas versiones de esta aplicación pueden solicitar acceso a la cámara del dispositivo. Este permiso se usa exclusivamente para funciones dentro de la app (por ejemplo, escaneo, tomar fotos o videos) y las imágenes no se almacenan ni se transmiten a servidores externos. El usuario tiene siempre el control de este permiso.</p>
+
+  <h2>No compartimos datos personales</h2>
+  <p>No recopilamos ni compartimos información personal identificable como nombre, dirección, correo electrónico o número de teléfono.</p>
+
+  <h2>Seguridad</h2>
+  <p>Tomamos medidas razonables para proteger los datos que se procesan dentro de la app. Sin embargo, debes saber que ningún método de transmisión por Internet o almacenamiento electrónico es 100% seguro.</p>
+
+  <h2>Cambios en esta política</h2>
+  <p>Esta política de privacidad puede actualizarse ocasionalmente. Se recomienda revisar esta página de vez en cuando para estar informado de cualquier cambio.</p>
+
+  <h2>Contacto</h2>
+  <p>Si tienes dudas o sugerencias sobre esta política de privacidad, puedes contactarnos en: [bimdu.appl@gmail.com]</p>
+
+</body>
+</html>
